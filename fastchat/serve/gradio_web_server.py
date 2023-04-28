@@ -435,7 +435,7 @@ The service is a research preview.
 
 def build_demo(models):
     with gr.Blocks(
-        title="Chat with Open Large Language Models",
+        title="STL Tech Vicuna preview",
         theme=gr.themes.Base(),
         css=block_css,
     ) as demo:
